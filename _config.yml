@@ -1,0 +1,23 @@
+slim:
+  pretty: true
+  format: html5
+
+title: DoMa
+email: dorian@doma.io
+description: DoMa projects
+url: https://doma.io
+
+twitter_username: bydorian
+github_username: dorian
+
+repository: dorian/doma
+
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "README.md"
+  - "TODO.md"
+  - "**/README.md"
+  - "**/TODO.md"
