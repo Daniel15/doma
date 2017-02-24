@@ -32,3 +32,7 @@ if ( ++p == pe ) // ☁️ 💔
 - [Twitter's tweet](https://twitter.com/bydorian/status/835055649809539072)
 - [Hacker news's item](https://news.ycombinator.com/item?id=13722199)
 - [Reddit's post](https://www.reddit.com/r/netsec/comments/5vwjwi/list_of_affected_cloudbleed_domains/)
+
+### Contributing
+
+- [cloudbleed.yml](https://github.com/Dorian/doma/blob/master/_data/cloudbleed.yml)
