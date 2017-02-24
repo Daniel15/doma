@@ -7,12 +7,12 @@ title: List of affected Cloudbleed domains
 if ( ++p == pe ) // ☁️ 💔
 ```
 
-### Sure
+### Found in the wild
 
 {% for domain in site.data.cloudbleed.sure %}
 - [{{ domain }}](https://{{ domain }}){% endfor %}
 
-### Maybe
+### Found in the wild by other people
 
 {% for domain in site.data.cloudbleed.maybe %}
 - [{{ domain }}](https://{{ domain }}){% endfor %}
