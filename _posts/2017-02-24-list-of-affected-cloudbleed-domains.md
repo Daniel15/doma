@@ -3,11 +3,12 @@ layout: post
 title: List of affected Cloudbleed domains
 ---
 
-Technically [any Cloudflare-controlled domain](https://github.com/pirate/sites-using-cloudflare) could be affected but those are the ones that had public leaked data even after the disclosure:
-
 ```c
 if ( ++p == pe ) // ☁️ 💔
 ```
+
+Technically [any Cloudflare-controlled domain](https://github.com/pirate/sites-using-cloudflare) could be affected but those are the ones that had public leaked data even after the disclosure:
+
 
 ### Found in the wild
 
