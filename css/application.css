@@ -18,3 +18,38 @@ img {
 .box-shadow {
   box-shadow: 0px 0 20px 12px rgba(236, 236, 236, 0.48);
 }
+
+.nice-hr {
+  border: none;
+  border-bottom: 1px solid #eee;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.nice-form {
+  display: inline-block;
+}
+
+.nice-input {
+  padding: 5px;
+  font-size: 14px;
+  min-width: 200px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+
+.nice-button {
+  padding: 5px;
+  background-color: #eee;
+  border: 1px solid #aaa;
+  font-size: 14px;
+  border-radius: 3px;
+}
+
+.nice-button:hover {
+  background-color: #ddd;
+}
+
+.nice-button:focus {
+  background-color: #ccc;
+}
