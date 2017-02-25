@@ -2,14 +2,12 @@
 layout: default
 ---
 
-- [Dorian](/dorian)
-- [Blog](/blog)
+# DoMa
 
-<!---
-- [Services](/services)
-- [Magic](/magic)
-- [Meet](/meet)
-- [Shops](/meet)
-- [Votes](/meet)
-- [Money](/money)
----->
+<hr class="nice-hr">
+
+## [Dorian](/dorian)
+
+<hr class="nice-hr">
+
+## [Blog](/blog)
