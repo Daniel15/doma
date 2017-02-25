@@ -7,4 +7,6 @@ title: Blog
 ## [{{ post.title }}]({{ post.url }})
 
 {{ post.content }}
+
+<hr class="nice-hr">
 {% endfor %}
