@@ -22,7 +22,7 @@ Technically [any Cloudflare-controlled domain](https://github.com/pirate/sites-u
 
 ### Sources
 
-- [Google and DuckDuckGo searches/cache](https://www.youtube.com/watch?v=oHg5SJYRHA0)
+- [Google and DuckDuckGo searches/cach](https://www.youtube.com/watch?v=oHg5SJYRHA0)[e](http://pastebin.com/jSm4YT7g)
 - [Hacker News's comments](https://news.ycombinator.com/item?id=13718752)
 
 ### Sources's sources
