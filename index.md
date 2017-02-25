@@ -6,8 +6,8 @@ layout: default
 
 <hr class="nice-hr">
 
-## [Dorian](/dorian)
+## [Blog](/blog)
 
 <hr class="nice-hr">
 
-## [Blog](/blog)
+## [Dorian](/dorian)
